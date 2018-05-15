@@ -1,0 +1,3 @@
+from=z5115039
+message=good night everyone except the man that fired the fatal bullet into harambe
+time=2016-08-17T03:44:04+0000

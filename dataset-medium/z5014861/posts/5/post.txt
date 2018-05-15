@@ -1,0 +1,5 @@
+longitude=151.2105
+from=z5014861
+time=2016-06-17T13:47:22+0000
+message=All I wanted was for him to hold the door for me :(
+latitude=-33.9489

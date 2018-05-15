@@ -1,0 +1,3 @@
+message=z5013363 r u Balkan?
+from=z5060415
+time=2016-06-02T11:04:18+0000

@@ -1,0 +1,3 @@
+from=z5063045
+message=Roses are red\nViolets are blue\nRyuu-ga, \nWa-ga-te-ki-wo Ku-ra-u
+time=2016-07-30T12:41:04+0000

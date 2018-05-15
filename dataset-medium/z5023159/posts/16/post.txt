@@ -1,0 +1,5 @@
+message=Nat K, When you walk through the library doors and the wind blows back your soft black hair, it's like an angel just fell from heaven
+longitude=151.0786
+from=z5023159
+latitude=-33.7380
+time=2016-09-29T11:15:29+0000

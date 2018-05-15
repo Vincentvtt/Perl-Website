@@ -1,0 +1,5 @@
+longitude=151.2355
+from=z5023159
+message=To the girl in the pink skirt, lying on the beanbag at The Hub with her laptop; Could I lie beside you?
+time=2013-05-07T10:48:08+0000
+latitude=-33.9262

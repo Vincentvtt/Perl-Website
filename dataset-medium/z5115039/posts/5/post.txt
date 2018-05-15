@@ -1,0 +1,5 @@
+message=theres this guy dean from sugs who now is part of hellsoc. so freaking cute
+from=z5115039
+time=2013-05-28T08:10:16+0000
+longitude=151.2224
+latitude=-33.9172

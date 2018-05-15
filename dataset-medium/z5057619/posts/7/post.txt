@@ -1,0 +1,5 @@
+latitude=-33.9147
+message=To the guy with "BEAST" printed on his shirt walking around uni, i love you
+longitude=151.2311
+from=z5057619
+time=2013-04-26T03:25:07+0000

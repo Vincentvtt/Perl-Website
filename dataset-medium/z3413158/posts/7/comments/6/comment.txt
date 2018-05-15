@@ -1,0 +1,3 @@
+from=z5057619
+message=z5062448 omg it's for you
+time=2013-03-21T05:31:31+0000

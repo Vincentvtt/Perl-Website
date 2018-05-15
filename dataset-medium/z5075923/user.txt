@@ -1,0 +1,11 @@
+email=D.Fuentes@unsw.edu.au
+birthday=1998-03-30
+full_name=Daisy Fuentes
+zid=z5075923
+mates=[z5014861, z5063045, z5018487]
+password=ranger
+home_suburb=University Of New South Wales
+home_latitude=-33.9194
+home_longitude=151.2388
+program=Commerce/Media (PR & Advert)
+courses=[2016 S2 ACCT1501, 2016 S2 ARTS1091, 2016 S2 ECON1101, 2016 S2 MDIA1003]

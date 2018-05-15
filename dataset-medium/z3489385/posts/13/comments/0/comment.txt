@@ -1,0 +1,3 @@
+message=look into compsci they should be learning swing frameworks
+time=2016-04-27T14:13:53+0000
+from=z3485885

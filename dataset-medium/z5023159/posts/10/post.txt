@@ -1,0 +1,5 @@
+longitude=151.2558
+time=2016-04-24T08:14:32+0000
+message=Jeremy <3\n\nyou can be mine once again when you become master of all elements\n\nLove from civil engineering
+latitude=-33.8825
+from=z5023159

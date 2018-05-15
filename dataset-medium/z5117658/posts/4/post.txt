@@ -1,0 +1,5 @@
+latitude=-33.9100
+longitude=151.2326
+time=2016-09-01T17:46:00+0000
+from=z5117658
+message=hwd

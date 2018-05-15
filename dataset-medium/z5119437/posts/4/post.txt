@@ -1,0 +1,5 @@
+latitude=-33.9155
+from=z5119437
+longitude=151.2339
+message=Robert Zheng, be mine
+time=2013-05-07T21:46:02+0000

@@ -1,0 +1,11 @@
+home_longitude=151.2433
+program=Biomedical Engineering
+password=beach
+courses=[2016 S1 BIOM9332, 2016 S1 BIOM9333, 2016 S1 BIOM9551, 2016 S1 BIOM9640, 2016 S2 BIOM9410, 2016 S2 BIOM9420, 2016 S2 BIOM9561, 2016 S2 BIOM9660]
+home_latitude=-33.9049
+birthday=1995-10-03
+home_suburb=Randwick
+mates=[z3466413, z5014753, z5079464, z5014335, z3470057, z5023159, z3485885, z3487885, z5014861, z5013363, z3376221, z3416238]
+email=M.Hakkinen@unsw.edu.au
+full_name=Mika Hakkinen
+zid=z5059413

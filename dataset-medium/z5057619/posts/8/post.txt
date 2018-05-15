@@ -1,0 +1,5 @@
+longitude=150.8122
+latitude=-34.0252
+from=z5057619
+time=2013-07-12T11:36:15+0000
+message=Dearest UNSW\n\nWhy do you have all the good looking guys and gals??\n\n-Highly Jealous USYD student

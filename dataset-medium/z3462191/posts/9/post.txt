@@ -1,0 +1,5 @@
+message=Jason K I've been talking to you for a few weeks and have been observing you in physics lectures. I pretend to be bad at physics so that I can ask you for help ;) bae HSP and chill sometime?
+longitude=151.2279
+time=2016-05-31T15:17:21+0000
+from=z3462191
+latitude=-33.9252

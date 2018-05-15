@@ -1,0 +1,5 @@
+longitude=151.2325
+time=2013-05-10T06:49:46+0000
+message=the blonde girl called steph in first year PR and advertising. i would love to demolish you
+from=z3489385
+latitude=-33.9622

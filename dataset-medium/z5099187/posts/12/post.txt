@@ -1,0 +1,5 @@
+from=z5099187
+longitude=151.0626
+latitude=-33.8954
+message=To the girl who lives in Camden and takes the 7:17 train from Campbelltown to UNSW. I wish I said hello to you.
+time=2013-04-19T08:41:20+0000

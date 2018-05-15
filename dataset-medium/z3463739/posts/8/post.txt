@@ -1,0 +1,5 @@
+message=The poet Clyde, \nYour lyrical skills far surpass my own\n\nCould you perhaps, bless this soul with your phone?
+from=z3463739
+latitude=-33.9647
+longitude=151.2409
+time=2016-08-17T03:15:41+0000

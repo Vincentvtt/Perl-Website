@@ -1,0 +1,5 @@
+from=z5060415
+message=To the girl who stole my goggles from new college, you also stole my heart. Can we please grab a coffee so you can return them?
+time=2016-10-04T22:17:39+0000
+longitude=151.1240
+latitude=-33.7355

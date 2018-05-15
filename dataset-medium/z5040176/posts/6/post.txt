@@ -1,0 +1,5 @@
+message=To the blonde girl in media with snakebites, I hate smokers, but I would make an exception for you ;)
+latitude=-33.9056
+from=z5040176
+time=2013-04-14T05:13:47+0000
+longitude=151.2015
